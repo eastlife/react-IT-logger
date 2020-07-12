@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Start server 001",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2020-07-12T05:44:24.246Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Server 002 failed",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2020-07-12T05:44:43.540Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 005",
+      "message": "Server 002 fixed",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sam Smith",
+      "date": "2020-07-12T05:44:57.212Z",
+      "id": 3
     }
   ],
   "techs": [
